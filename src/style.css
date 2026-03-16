@@ -2,3 +2,7 @@ body {
   background: rgb(249, 247, 254);
   font-family: "roboto", sans-serif;
 }
+.body_box {
+  margin: 0;
+  border: 10px;
+}
